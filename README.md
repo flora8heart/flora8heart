@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 -->
 - 👋 Hi, I’m Michelle! 💕
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/michelleknlim)
-- ⚡ Fun fact: I am like playing tennis 🎾 and I am passionate about music! I play the piano and I love to sing 🎹🎵
+- ⚡ Fun fact: I like playing tennis 🎾 and I am passionate about music! I play the piano 🎹 and I love to sing 🎵🥰
 - 🔭 I’m currently working on [Hue Harmony](https://github.com/chingu-voyages/v49-tier1-team-03)
 
