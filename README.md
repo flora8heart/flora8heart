@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 👋 Hi, I’m Michelle! 💕
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/michelleknlim)
 - ⚡ Fun fact: I like playing tennis 🎾 and I am passionate about music! I play the piano 🎹 and I love to sing 🎵🥰
-- 🔭 I recently working on [Hue Harmony](https://github.com/chingu-voyages/v49-tier1-team-03) at Chingu.
+- 💼 I recently worked on [Hue Harmony](https://github.com/chingu-voyages/v49-tier1-team-03) at Chingu. This project utilised the Groq AI API with Llama 3 as its AI model. I played a key role in designing the prompt and contributed to implementing the connection to the Groq AI API.
+- 🔭 I'm currently working on a small-scale game build using Lua with the Love2D framework.
 
