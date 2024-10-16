@@ -37,16 +37,12 @@ Here are some ideas to get you started:
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=ffffff)
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=ffffff)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=ffffff)
-
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=ffffff)
-
 [![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=ffffff)]()
 [![Love2D](https://img.shields.io/badge/-Love2D-EF223A?logo=heart&logoColor=ffffff)]()
-
 [![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=.net&logoColor=ffffff)]()
 ![C#](https://img.shields.io/badge/-C%23-9b4993?logo=csharp&logoColor=ffffff)
 
